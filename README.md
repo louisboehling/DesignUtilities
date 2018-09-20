@@ -9,6 +9,11 @@
 * [Coolors](https://coolors.co/) - Large color palette generator.<br>
 * [Designspiration](https://www.designspiration.net/) - Inspo page, can search work based on color.
 
+## Creative Process 
+*Resources for the creative process*<br>
+
+* Article [Creating Personas](http://www.uxbooth.com/articles/creating-personas/) - An article on how to create and uses personas. 
+
 ## Design Systems and Style Guides
 *References for building design systems*<br>
 
