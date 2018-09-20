@@ -11,4 +11,9 @@
 ## Design Systems
 *References for building design systems*<br>
 
-[Adele](https://adele.uxpin.com/) - Huge collection of design systems of tons of brands. 
+[Adele](https://adele.uxpin.com/) - Huge collection of design systems of tons of brands.
+
+## Web Development
+*References for making things on the web*<br>
+
+Article [Developing a Wordpress Theme](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/) - Step by step guide to developing a Wordpress theme from scratch.
