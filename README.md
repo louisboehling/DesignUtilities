@@ -12,7 +12,8 @@
 ## Creative Process 
 *Resources for the creative process*<br>
 
-* Article [Creating Personas](http://www.uxbooth.com/articles/creating-personas/) - An article on how to create and uses personas. 
+* Article [Creating Personas](http://www.uxbooth.com/articles/creating-personas/) - An article on how to create and uses personas.<br> 
+* Article [Journey Mapping](https://medium.com/@shahrsays/dont-make-a-journey-map-9-archetypes-of-good-bad-and-how-to-decide-what-to-use-d65abd30ec6f) - A journey mapping how-to with examples of good and bad practicies. 
 
 ## Design Systems and Style Guides
 *References for building design systems*<br>
