@@ -14,6 +14,11 @@
 
 * [Adele](https://adele.uxpin.com/) - Huge collection of design systems of tons of brands.
 
+## Fonts and Typography
+*References for typefaces, fonts, and pairing*<br>
+
+* Article [Google Font Pairings](https://www.reliablepsd.com/ultimate-google-font-pairings/) - Thorough article that shows tons of different Google font pairings.
+
 ## Web Development
 *References for making things on the web*<br>
 
