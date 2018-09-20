@@ -26,6 +26,12 @@
 
 * Article [Google Font Pairings](https://www.reliablepsd.com/ultimate-google-font-pairings/) - Thorough article that shows tons of different Google font pairings.
 
+## Portfolio 
+*References for portfolio development*
+
+* Example [Case Study 1](http://www.billyreano.com/portfolio/google-newborn/) - Example of how to make a case study. 
+* Example [Case Study 2](https://www.corynbajema.com/form-1) - Another case study example.
+
 ## Web Development
 *References for making things on the web*<br>
 
