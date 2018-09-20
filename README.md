@@ -1,7 +1,7 @@
 # DesignUtilities
 *This is a place where I am going to put all the design utilities I have found around the web into one document.* 
 
-### Color 
+## Color 
 *Tools for picking color palettes*<br>
 
 [Color Leap](https://colorleap.app/home) - Color palettes based on period paintings.<br>
