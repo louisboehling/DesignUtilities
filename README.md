@@ -6,7 +6,8 @@
 
 * [Color Leap](https://colorleap.app/home) - Color palettes based on period paintings.<br>
 * [Color Hunt](https://colorhunt.co/) - Artist project crowdsourcing color palettes.<br>
-* [Coolors](https://coolors.co/) - Large color palette generator.
+* [Coolors](https://coolors.co/) - Large color palette generator.<br>
+* [Designspiration](https://www.designspiration.net/) - Inspo page, can search work based on color.
 
 ## Design Systems
 *References for building design systems*<br>
