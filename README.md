@@ -9,10 +9,11 @@
 * [Coolors](https://coolors.co/) - Large color palette generator.<br>
 * [Designspiration](https://www.designspiration.net/) - Inspo page, can search work based on color.
 
-## Design Systems
+## Design Systems and Style Guides
 *References for building design systems*<br>
 
 * [Adele](https://adele.uxpin.com/) - Huge collection of design systems of tons of brands.
+* Article [How To Make a Style Guide](https://blog.hubspot.com/marketing/examples-brand-style-guides) - Runs through the basics of how to make a style guide with examples. 
 
 ## Fonts and Typography
 *References for typefaces, fonts, and pairing*<br>
