@@ -3,5 +3,5 @@
 
 # Color 
 
-[Color Leap](https://colorleap.app/home) - Color palettes based on period paintings. 
+[Color Leap](https://colorleap.app/home) - Color palettes based on period paintings.
 [Color Hunt](https://colorhunt.co/) - Artist project crowdsourcing color palettes. 
