@@ -33,7 +33,7 @@
 * Example [Case Study 2](https://www.corynbajema.com/form-1) - Another case study example.
 
 ## Resources
-*Informational resources for tech and design
+*Informational resources for tech and design*<br>
 
 * [Emerging Technologies Report](https://info.shockoe.com/emerging-technologies-report) - Report of up and coming technologies, downlaodable report.
 
