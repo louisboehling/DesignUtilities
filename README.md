@@ -37,6 +37,11 @@
 
 * [Emerging Technologies Report](https://info.shockoe.com/emerging-technologies-report) - Report of up and coming technologies, downlaodable report.
 
+## Statistics 
+*Resources for statistical informnation*<br>
+
+* [ACSI](https://www.theacsi.org/) - For finding brand consumer satisfaction and competitors.
+
 ## Web Development
 *References for making things on the web*<br>
 
