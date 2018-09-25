@@ -32,6 +32,11 @@
 * Example [Case Study 1](http://www.billyreano.com/portfolio/google-newborn/) - Example of how to make a case study. 
 * Example [Case Study 2](https://www.corynbajema.com/form-1) - Another case study example.
 
+##Resources
+*Informational resources for tech and design
+
+* [Emerging Technologies Report](https://info.shockoe.com/emerging-technologies-report) - Report of up and coming technologies, downlaodable report.
+
 ## Web Development
 *References for making things on the web*<br>
 
